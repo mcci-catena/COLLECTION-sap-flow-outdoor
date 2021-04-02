@@ -1,0 +1,24 @@
+[submodule "sketches/catena4612-pulse-generic"]
+	path = sketches/catena4612-pulse-generic
+	url = git@gitlab-x.mcci.com:mcci/hardware/catena/catena4612/firmware/catena4612-pulse-generic.git
+[submodule "libraries/Catena-Arduino-Platform"]
+	path = libraries/Catena-Arduino-Platform
+	url = https://github.com/mcci-catena/Catena-Arduino-Platform.git
+[submodule "libraries/arduino-lorawan"]
+	path = libraries/arduino-lorawan
+	url = https://github.com/mcci-catena/arduino-lorawan.git
+[submodule "libraries/Catena-mcciadk"]
+	path = libraries/Catena-mcciadk
+	url = https://github.com/mcci-catena/Catena-mcciadk.git
+[submodule "libraries/arduino-lmic"]
+	path = libraries/arduino-lmic
+	url = https://github.com/mcci-catena/arduino-lmic.git
+[submodule "libraries/Adafruit_BME280_Library"]
+	path = libraries/Adafruit_BME280_Library
+	url = https://github.com/mcci-catena/Adafruit_BME280_Library.git
+[submodule "libraries/Adafruit_Sensor"]
+	path = libraries/Adafruit_Sensor
+	url = https://github.com/mcci-catena/Adafruit_Sensor.git
+[submodule "libraries/MCCI_FRAM_I2C"]
+	path = libraries/MCCI_FRAM_I2C
+	url = https://github.com/mcci-catena/MCCI_FRAM_I2C.git
