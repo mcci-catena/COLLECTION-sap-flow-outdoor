@@ -22,3 +22,12 @@
 [submodule "libraries/MCCI_FRAM_I2C"]
 	path = libraries/MCCI_FRAM_I2C
 	url = https://github.com/mcci-catena/MCCI_FRAM_I2C.git
+[submodule "extra/Arduino_Core_STM32"]
+	path = extra/Arduino_Core_STM32
+	url = https://github.com/mcci-catena/Arduino_Core_STM32.git
+[submodule "extra/bootloader"]
+	path = extra/bootloader
+	url = https://github.com/mcci-catena/bootloader.git
+[submodule "extra/dfu-util"]
+	path = extra/dfu-util
+	url = git@gitlab-x.mcci.com:vendor/dfu-util/dfu-util.git
