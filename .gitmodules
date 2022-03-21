@@ -31,3 +31,6 @@
 [submodule "extra/dfu-util"]
 	path = extra/dfu-util
 	url = git@gitlab-x.mcci.com:vendor/dfu-util/dfu-util.git
+[submodule "extra/tools-build-with-cli"]
+	path = extra/tools-build-with-cli
+	url = git@github.com:mcci-catena/tools-build-with-cli.git
