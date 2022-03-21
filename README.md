@@ -1,6 +1,6 @@
 # COLLECTION-sap-flow-outdoor
 
-[![GitHub release](https://img.shields.io/github/release/mcci-catena/COLLECTION-sap-flow-outdoor.svg)](https://github.com/mcci-catena/COLLECTION-sap-flow-outdoor/releases/latest) [![GitHub commits](https://img.shields.io/github/commits-since/mcci-catena/COLLECTION-sap-flow-outdoor/latest.svg)](https://github.com/mcci-catena/COLLECTION-sap-flow-outdoor/compare/v0.1.1...main)
+[![GitHub release](https://img.shields.io/github/release/mcci-catena/COLLECTION-sap-flow-outdoor.svg)](https://github.com/mcci-catena/COLLECTION-sap-flow-outdoor/releases/latest) [![GitHub commits](https://img.shields.io/github/commits-since/mcci-catena/COLLECTION-sap-flow-outdoor/latest.svg)](https://github.com/mcci-catena/COLLECTION-sap-flow-outdoor/compare/v0.2.0...main)
 
 Collection of build environment for the MCCI&reg; Model 4910 Outdoor Sap Flow meter (using Catena 4612).
 
@@ -14,7 +14,7 @@ The script [`build-with-cli.sh`](build-with-cli.sh) can be used to build the `ca
 
 ### Revision History
 
-v0.1.1 is the first official release from this collection.
+v0.2.0 is the first official release from this collection.
 
 ### Trademarks and copyright
 
