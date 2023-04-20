@@ -36,8 +36,8 @@ cd "$PDIR"
 function _setProject {
     #---- project settings -----
     readonly OPTOUTPUTNAME_DEFAULT=model4910-outdoor-sap-flow
-    readonly OPTARDUINO_SOURCE_DEFAULT=sketches/catena4612-pulse-generic/catena4612-pulse-generic.ino
-    readonly OPTARDUINO_BOARD_DEFAULT=4612
+    readonly OPTARDUINO_SOURCE_DEFAULT=sketches/model4910-outdoor-sap-flow/model4910-outdoor-sap-flow.ino
+    readonly OPTARDUINO_BOARD_DEFAULT=4618
     readonly OPTKEYFILE_DEFAULT="$INVOKEDIR/keys/project.pem"
     readonly OPTREGION_DEFAULT=us915
     readonly OPTNETWORK_DEFAULT=ttn
