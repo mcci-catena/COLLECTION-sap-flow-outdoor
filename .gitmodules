@@ -34,3 +34,12 @@
 [submodule "extra/tools-build-with-cli"]
 	path = extra/tools-build-with-cli
 	url = git@github.com:mcci-catena/tools-build-with-cli.git
+[submodule "sketches/model4910-outdoor-sap-flow"]
+	path = sketches/model4910-outdoor-sap-flow
+	url = git@github.com:mcci-catena/model4910-outdoor-sap-flow.git
+[submodule "libraries/MCCI-Catena-SHT3x"]
+	path = libraries/MCCI-Catena-SHT3x
+	url = git@github.com:mcci-catena/MCCI-Catena-SHT3x.git
+[submodule "libraries/mcci_ltr_329als"]
+	path = libraries/mcci_ltr_329als
+	url = git@github.com:mcci-catena/mcci_ltr_329als.git
